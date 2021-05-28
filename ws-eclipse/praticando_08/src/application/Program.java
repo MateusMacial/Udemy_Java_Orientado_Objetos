@@ -30,8 +30,7 @@ public class Program {
 					System.out.println("Left: " + mat[i][j - 1]);
 					System.out.println("Up: " + mat[i - 1][j]);
 					System.out.println("Hight: " + mat[i][i + 1]);
-					System.out.println("Down: " + mat[j + 1][j]);
-					
+					System.out.println("Down: " + mat[j + 1][j]);			
 				}
 			}
 		}
