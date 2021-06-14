@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_Java\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
 2871116329.index
 3266594583.index
@@ -96,3 +97,7 @@ INDEX VERSION 1.131+C:\Users\Pichau\Documents\GitHubProjetos\Udemy_Java\ws-eclip
 4267522316.index
 4222622084.index
 3622649139.index
+=======
+INDEX VERSION 1.131+C:\Users\mateus.ferreira\Documents\GitHub\Udemy_Java\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+3501723038.index
+>>>>>>> 01e517351bab79b6682704c6e9458fc4e61553bf
